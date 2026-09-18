@@ -12,6 +12,8 @@ I have narrowed the list of certs down to a few important ones for areas I'm int
 
 ### Red Team
 - [ ] OffSec Certified Professional (OSCP+)
+- [ ] CREST Practitioner Security Analyst (CPSA)
+- [ ] CREST Registered Penetration Tester (CRT)
 - [ ] HackTheBox Certified Penetration Testing Specialist (CPTS)
 - [ ] GIAC Penetration Tester Certification (GPEN)
 
