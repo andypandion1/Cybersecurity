@@ -6,20 +6,23 @@ I'm learning Cybersecurity to get a long list of certificates
 I have narrowed the list of certs down to a few important ones for areas I'm interested in.
 
 ### Foundation
-- [ ] CompTIA A+
+- [X] Cisco Certified Security Technician - Cybersecurity (CCST)
 - [ ] Cisco Certified Network Associate (CCNA)
-- [ ] CompTIA Security+
 
 ### Red Team
+- [ ] HackTheBox Certified Penetration Testing Specialist (CPTS)
 - [ ] OffSec Certified Professional (OSCP+)
 - [ ] CREST Practitioner Security Analyst (CPSA)
-- [ ] CREST Registered Penetration Tester (CRT)
-- [ ] HackTheBox Certified Penetration Testing Specialist (CPTS)
+- [ ] CREST Registered Penetration Tester (CRT) [Through equivalency program
 - [ ] GIAC Penetration Tester Certification (GPEN)
 
-## CIRT/DFIR
+## Blue Team
 - [ ] Blue Team Level 1 (BTL1)
 - [ ] GIAC Certified Incident Handler (GCIH)
 - [ ] GIAC Certified Forensics Analyst (GCFA)
+
+
+### Management
+- [ ] Certified Information Systems Security Professional (CISSP)
 
 ---
